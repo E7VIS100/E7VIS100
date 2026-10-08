@@ -19,7 +19,7 @@
 ---
 
 <!-- ================= ABOUT ================= -->
-<h2>🧠 Sobre mí</h2>
+<h2>Sobre mí</h2>
 
 <p>
 Soy Ingeniero Metalúrgico con enfoque en <b>Inteligencia Artificial aplicada a minería</b>.
@@ -50,7 +50,7 @@ Trabajo en soluciones como:
 </p>
 
 <p align="center">
-  🚀 Modelos de IA, visión artificial y analítica avanzada en minería
+  Modelos de IA, visión artificial y analítica avanzada en minería
 </p>
 
 <!-- ================= TECH STACK ================= -->
@@ -58,7 +58,7 @@ Trabajo en soluciones como:
 
 <p>
 <b>🧠 Inteligencia Artificial</b><br>
-TensorFlow • PyTorch • Scikit-learn • Computer Vision
+TensorFlow • PyTorch • Scikit-learn • Machine Learning • Deep Learning • Computer Vision • Inteligencia Artificial Agentica
 </p>
 
 <p>
@@ -67,12 +67,12 @@ Python • MySQL • Power BI • Minitab • Statgraphics
 </p>
 
 <p>
-<b>🏭 Industria & Automatización</b><br>
+<b>Industria & Automatización</b><br>
 SCADA • PI System • PHD • SAP MM • Ladder
 </p>
 
 <p>
-<b>🛠️ Ingeniería</b><br>
+<b>Ingeniería</b><br>
 Rocky DEM • AutoCAD • SolidWorks
 </p>
 
